@@ -1,6 +1,6 @@
 # Atividade de Layouts - Programação Web I
 
-Repositório daestinado às atividades da aula 3 da disciplina **Programação Web I**, do curso Técnico Integrado em Informática do IFCE - Campus Fortaleza, sob orientação do professor José Roberto Bezerra.
+Repositório destinado às atividades da aula 3 da disciplina **Programação Web I**, do curso Técnico Integrado em Informática do IFCE - Campus Fortaleza, sob orientação do professor José Roberto Bezerra.
 
 ### Atividades Desenvolvidas:
 - Layout Fluid de 2 colunas
